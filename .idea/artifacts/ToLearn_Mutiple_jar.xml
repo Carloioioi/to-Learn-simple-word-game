@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ToLearn_Mutiple:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ToLearn_Mutiple_jar</output-path>
+    <root id="archive" name="ToLearn_Mutiple.jar">
+      <element id="module-output" name="ToLearn_Mutiple" />
+    </root>
+  </artifact>
+</component>
